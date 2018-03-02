@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CustomListViewDemo</string>
+    <string-array name="title">
+        <item> Java</item>
+        <item> Android</item>
+        <item> Php</item>
+        <item> AngularJS</item>
+        <item> Javascript</item>
+    </string-array>
+
+    <string-array name="subtitle">
+        <item> Java related mcq read more</item>
+        <item> Android related mcq read more</item>
+        <item> Php related mcq read more</item>
+        <item> AngularJS related mcq read more</item>
+        <item> Javascript related mcq read more</item>
+    </string-array>
+    <string-array name="version">
+        <item> 1.3</item>
+        <item> 2.1</item>
+        <item> 7.3</item>
+        <item> 2.1</item>
+        <item> 4.3</item>
+    </string-array>
+
+    <string-array name="image">
+        <item>@drawable/java</item>
+        <item>@drawable/android</item>
+        <item>@drawable/php</item>
+        <item>@drawable/angularjs</item>
+        <item>@drawable/javascript</item>
+    </string-array>
+
+
+</resources>
